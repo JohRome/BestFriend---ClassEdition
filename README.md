@@ -1,2 +1,2 @@
 # BestFriend-ClassEdition
-Gjorde om uppgiften "Bästa Vän" till OOP
+Gjorde om uppgiften "Bästa Vännen" till OOP
