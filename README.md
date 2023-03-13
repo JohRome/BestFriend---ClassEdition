@@ -1,2 +1,2 @@
 # BestFriend-ClassEdition
-Gjorde om uppgiften "Bästa Vännen" till OOP
+Gjorde om uppgift: https://github.com/Campus-Molndal-JIN23/Uppgifter/blob/main/docs/OOP/Easy/BastaVennen.md till klasser
